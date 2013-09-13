@@ -1,0 +1,4 @@
+YII-Blog-All-in-noe
+===================
+
+his website is based on the Yii Blog Demo project.  Yii Framework 1.1.14 (Aug 11, 2013)  This Project aims to get good idea about YII Blog site &amp; How use for Your Blog site .. . Follow this project and you are welcome to contribute in any way. Join the forum discussion on Yii website. New Features List:      Added User managment system yii-user      Added mail service phpmailer      Added sponsor banners using modified extension mflip      Wysiwyg Editor when creating new Post content using extension xheditor      Added calender simple-calendar      Search Bar using modified extension esearch      Added Blog Statistics using extension usercounter      Added social bookmarks to posts using extension wsocialbutton      Added Multilanguage yii-multilanguage      Added View Visitors FlagCounter  I added Mysql Database in channasmcs-bolg-master database folder Visite my website Channasmcs
